@@ -1,1 +1,1 @@
-conflict 2
+my final line
